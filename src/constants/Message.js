@@ -1,0 +1,5 @@
+export const MSG_ADD_TO_CART_SUUCESS = 'Mua Hàng Thành Công'
+export const MSG_UPDATE_CART_SUUCESS = 'Cập Nhập giỏ hàng  Thành Công'
+export const MSG_DELETE_PRODUCT_IN_CART_SUUCESS = 'Xóa sảm phẩm khỏi giỏ hàng Thành Công'
+export const MSG_CART_EMPTY = 'Chưa Có sản phẩm trong giỏ hàng'
+export const MSG_WELCOME = 'Cháo Mừng đến với shopping online'
